@@ -1,5 +1,12 @@
 Video Test:
-https://github.com/user-attachments/assets/935abf20-38b4-402a-b772-9213051a75f2
+
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/935abf20-38b4-402a-b772-9213051a75f2" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
